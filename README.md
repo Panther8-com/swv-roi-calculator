@@ -15,3 +15,5 @@ Includes presets for solo professionals, teams, and company-wide evaluation, plu
 React, TypeScript, Tailwind CSS, Recharts, Framer Motion.  Client-side PDF report generation via `@react-pdf/renderer`.
 
 Part of [WithVoice](https://withvoice.ai) -- AI fluency for teams.
+
+<!-- post-Panther8-org-transfer sanity check: 2026-05-27 -->
